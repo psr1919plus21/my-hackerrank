@@ -1,0 +1,23 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psr1919plus21/my-hackerrank.git"
+  },
+  "author": "filgaponenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psr1919plus21/my-hackerrank/issues"
+  },
+  "homepage": "https://github.com/psr1919plus21/my-hackerrank#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
