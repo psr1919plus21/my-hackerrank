@@ -1,6 +1,3 @@
-const result = kangoroo(1, 2, 2, 1);
-console.log(result);
-
 function kangoroo(x1, v1, x2, v2) {
     let result = 'NO';
 
